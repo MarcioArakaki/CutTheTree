@@ -1,0 +1,11 @@
+W:\Projetos\HackerRank\TimeInWords\TimeInWords\bin\Debug\netcoreapp2.2\TimeInWords.deps.json
+W:\Projetos\HackerRank\TimeInWords\TimeInWords\bin\Debug\netcoreapp2.2\TimeInWords.runtimeconfig.json
+W:\Projetos\HackerRank\TimeInWords\TimeInWords\bin\Debug\netcoreapp2.2\TimeInWords.runtimeconfig.dev.json
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\bin\Debug\netcoreapp2.2\TimeInWords.dll
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\bin\Debug\netcoreapp2.2\TimeInWords.pdb
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\obj\Debug\netcoreapp2.2\TimeInWords.csprojAssemblyReference.cache
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\obj\Debug\netcoreapp2.2\TimeInWords.csproj.CoreCompileInputs.cache
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\obj\Debug\netcoreapp2.2\TimeInWords.AssemblyInfoInputs.cache
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\obj\Debug\netcoreapp2.2\TimeInWords.AssemblyInfo.cs
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\obj\Debug\netcoreapp2.2\TimeInWords.dll
+w:\Projetos\HackerRank\TimeInWords\TimeInWords\obj\Debug\netcoreapp2.2\TimeInWords.pdb
